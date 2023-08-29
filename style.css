@@ -241,6 +241,7 @@ li img {
 .trending {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     font-size: 1rem;
 }
 
